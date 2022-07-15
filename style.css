@@ -1,0 +1,9 @@
+.heading{
+    color: red;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button{
+    letter-spacing:3;
+    font-size: 25px;
+}
